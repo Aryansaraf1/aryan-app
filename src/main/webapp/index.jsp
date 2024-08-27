@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1 align="center">My Personal Profile</h1>
+    <h1 align="center">Welcome to the Aryan Saraf App</h1>
 
     <h2>About Me</h2>
     <p>
