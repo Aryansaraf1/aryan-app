@@ -4,7 +4,7 @@
 
     <h2>About Me</h2>
     <p>
-      Hello! My name is Aryan12 Saraf. I am a passionate web developer with a keen
+      Hello! My name is Aryan Saraf. I am a passionate web developer with a keen
       interest in creating interactive and user-friendly web applications. I
       love exploring new technologies and enhancing my skills in web
       development.
